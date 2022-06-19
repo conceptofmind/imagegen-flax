@@ -1,1 +1,1 @@
-# imagegen-flax
+# imagegen-flax (WIP)
